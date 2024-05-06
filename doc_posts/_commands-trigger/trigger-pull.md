@@ -51,4 +51,14 @@ There is an array that lists all Trigger Types in the Global Variables section o
 |26|Webhook Trigger|
 |27|Twitch Low Trust Users|
 |28|Twitch Shoutout|
+|29|SAMMI Voice|
+|30|Crowd Control|
+|31|Voicemod|
+|32|Pulsoid|
+|33|Twitch Ad Break|
+|34|Twitch Charity|
+|35|Twitch Announcement|
+|36|Twitch Guest Star|
+|37|Twitch Shoutout Recieve|
+|38|Twitch Stream|
 {:class='table table-secondary w-auto table-hover text-break' }
